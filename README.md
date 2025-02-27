@@ -5,6 +5,7 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+
 Software engineering is a branch of computer science used for developing, testing and maintaining software.
 
 Identify and describe at least three key milestones in the evaluation of software
@@ -26,6 +27,7 @@ Modern advancements in AI-assisted coding (e.g., GitHub Copilot), containerizati
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
+
 Planning - identify the software requirement or purpose and scope.
 
 Requirement analysis - identify the final user specification.
@@ -63,23 +65,23 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
 
 Software Developer - developing applications,programs and systems using programming languages and frameworks.
 
->Maintaining and updating software to keep it functional.
->Collaborating with other team members to ensure best practice when developing software.
->Reporting to the project manager about the progress of the software development.
+Maintaining and updating software to keep it functional.
+Collaborating with other team members to ensure best practice when developing software.
+Reporting to the project manager about the progress of the software development.
 
 Quality Assurance Engineer - collaborate with stakeholders to understand and clarify software requirement.
 
->Create development standards and procedures for the programmers to follow
->Confirm that the software meets the requirement before deployment.
->Analyse the product to identify bugs and suggest changes to make them more efficient.
->Develop and execute automation scripts using open source tools.
+Create development standards and procedures for the programmers to follow
+Confirm that the software meets the requirement before deployment.
+Analyse the product to identify bugs and suggest changes to make them more efficient.
+Develop and execute automation scripts using open source tools.
 
 Project Manager - assembles and lead the software development team.
 
->Discuss the project and it's requirement with the client and software developers.
->Create blueprint for the project.
->Tracking and communicating information regarding the project milestone.
->Deliver the complete software to the client and regularly check its performance.
+Discuss the project and it's requirement with the client and software developers.
+Create blueprint for the project.
+Tracking and communicating information regarding the project milestone.
+Deliver the complete software to the client and regularly check its performance.
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
@@ -98,58 +100,58 @@ Debugging IDE enables a step through the code, line by line, as it runs and insp
 Version Control Systems (VCS) - are software tools that help software teams manage changes to source code over time. eg Git
 
 Importance:
--Collaboration: Enables multiple developers to work on the same codebase without conflicts.
+Collaboration: Enables multiple developers to work on the same codebase without conflicts.
 
--Change Tracking: Records detailed history of changes, allowing easy analysis of each modification.
+Change Tracking: Records detailed history of changes, allowing easy analysis of each modification.
 
--Branching and Merging: Supports creating branches for new features and merging them back into the main code.
+Branching and Merging: Supports creating branches for new features and merging them back into the main code.
 
--Error Recovery: Allows reverting to previous versions if new changes introduce errors
+Error Recovery: Allows reverting to previous versions if new changes introduce errors
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
->Rapid technological advancement places considerable pressure on software engineers to stay current.
+Rapid technological advancement places considerable pressure on software engineers to stay current.
 
 Solution: adopting continuous learning practices and using agile methodologies to adapt to emerging trends, keeping their skills sharp in an ever-evolving industry. -
 
->Time Constraints - Software engineering is a demanding and time-intensive field, often requiring engineers to work under high pressure to meet tight deadlines.
+Time Constraints - Software engineering is a demanding and time-intensive field, often requiring engineers to work under high pressure to meet tight deadlines.
 
 Solution: adopt agile methodologies, such as Scrum, to streamline workflows by dividing large projects into manageable sprints
 
->Limited Infrastructure - limited high-performance software engineering tools and computing platforms and inefficient data storage architectures.
+Limited Infrastructure- limited high-performance software engineering tools and computing platforms and inefficient data storage architectures.
 
  Solution: Software engineers must rely heavily on a robust infrastructure to perform their jobs effectively.
 
->Changing Software Requirements - Software requirements are often dynamic and subject to frequent changes, making it challenging for engineers to design and develop solutions that meet users' needs while accounting for future updates and bug fixes.
+Changing Software Requirements- Software requirements are often dynamic and subject to frequent changes, making it challenging for engineers to design and develop solutions that meet users' needs while accounting for future updates and bug fixes.
 
 Solution: engineers can adopt approaches like agile development, which emphasizes iterative progress and adaptability, and modular design, which enables flexibility by breaking systems into manageable, independent components.
 
->Software Security - Programming secure software is a complex and challenging task.
+Software Security - Programming secure software is a complex and challenging task.
 
 Solution: research ways to defend against hacking, malware, phishing, insider and third-party threats
 
->Software Accessibility and Usability - Overly complex software can frustrate or confuse users.
+Software Accessibility and Usability - Overly complex software can frustrate or confuse users.
 
 Solution: Use scalable architecture, Emphasize reliability.
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
->Unit tests - are close to the source of an application, They consist in testing individual methods and functions of the classes, components, or modules used by your software.
--It ensures that each unit performs its intended function correctly, isolated from other components.
+Unit tests - are close to the source of an application, They consist in testing individual methods and functions of the classes, components, or modules used by your software.
+It ensures that each unit performs its intended function correctly, isolated from other components.
 
->Integration tests - verify that different modules or services used by your application work well together.
+Integration tests - verify that different modules or services used by your application work well together.
 
--Help to ensure data flows smoothly between modules and interfaces work as expected.
+Help to ensure data flows smoothly between modules and interfaces work as expected.
 
->System testing -Focus on the entire software system as a whole, including all functionalities and interactions.
+System testing -Focus on the entire software system as a whole, including all functionalities and interactions.
 
--It help to verify that the system meets all functional and non-functional requirements, including performance, usability, and security .
+It help to verify that the system meets all functional and non-functional requirements, including performance, usability, and security .
 
->Acceptance tests - are formal tests that verify if a system satisfies business requirements. They require the entire application to be running while testing and focus on replicating user behaviors.
+Acceptance tests - are formal tests that verify if a system satisfies business requirements. They require the entire application to be running while testing and focus on replicating user behaviors.
 
--Whether the software meets the needs of the end-user and is ready for deployment.
+Whether the software meets the needs of the end-user and is ready for deployment.
 
 
 #Part 2: Introduction to AI and Prompt Engineering
