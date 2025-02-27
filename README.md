@@ -38,7 +38,6 @@ Coding - converting software design into tangible code.
 
 Testing - examine the software for any bugs and glitches
 
-
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 waterfall methodology - Linear and sequential, each phase is completed before moving on.
 
