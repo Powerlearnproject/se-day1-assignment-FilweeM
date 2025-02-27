@@ -13,13 +13,14 @@ Identify and describe at least three key milestones in the evaluation of softwar
 1. Mastering Complexity
 Software systems have grown increasingly complex over time.
 To manage this complexity, techniques such as modular programming, abstraction, and object-oriented design have been developed.
+
 Modern software engineering relies on design patterns, architecture frameworks (e.g., MVC, microservices), and domain-driven design to break down complex problems into manageable components.
-2. Mastering Process
+3. Mastering Process
 The development process itself has evolved to ensure efficiency, quality, and predictability.
 Early methods (e.g., Waterfall) were sequential but lacked flexibility.
 Later methodologies like Agile, DevOps, and CI/CD (Continuous Integration/Continuous Deployment) improved adaptability, collaboration, and automation.
 Project management frameworks (e.g., Scrum, Kanban) help teams work iteratively and respond to changes effectively.
-3. Mastering Machine
+4. Mastering Machine
 Software engineering requires optimizing how humans interact with computers.
 Early programming was done in low-level languages (assembly, machine code), but higher-level languages (C, Java, Python) improved productivity.
 The rise of cloud computing, virtualization, AI, and automation has further transformed how machines execute complex tasks efficiently.
