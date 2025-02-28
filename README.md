@@ -26,7 +26,6 @@ Early programming was done in low-level languages (assembly, machine code), but 
 The rise of cloud computing, virtualization, AI, and automation has further transformed how machines execute complex tasks efficiently.
 Modern advancements in AI-assisted coding (e.g., GitHub Copilot), containerization (Docker, Kubernetes), and parallel computing continue to push boundaries.
 
-
 List and briefly explain the phases of the Software Development Life Cycle.
 
 Planning - identify the software requirement or purpose and scope.
@@ -107,7 +106,6 @@ Change Tracking: Records detailed history of changes, allowing easy analysis of 
 Branching and Merging: Supports creating branches for new features and merging them back into the main code.
 
 Error Recovery: Allows reverting to previous versions if new changes introduce errors
-
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
